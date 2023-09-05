@@ -1,12 +1,10 @@
 # Deploy a PostgreSQL database to AWS with Terraform
 
 # terraform-db-infrastructure
-This repository holds Terraform code/files that deploys a PostgreSQL database to AWS account.
+This repository holds Terraform code/files that deployment step-by-step instructions for deploying an Amazon Aurora PostgreSQL database to AWS account.
 
 # Pre-requisites:
 AWS account and IAM user with access to the AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY values. 
-
-More information: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-build
 
 - To use your IAM credentials to authenticate the Terraform AWS provider, set the AWS_ACCESS_KEY_ID environment variable.
 ```
