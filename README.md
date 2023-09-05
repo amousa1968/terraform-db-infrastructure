@@ -134,32 +134,3 @@ $ terraform destroy --auto-approve
 
 Correct output:
 Plan: 0 to add, 0 to change, <number-of-resources> to destroy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Please follow the in-depth description in this Medium article to get started: https://medium.com/@chowsimson/how-to-deploy-a-postgresql-database-to-aws-azure-and-google-cloud-platform-with-terraform-in-3-27f78d1f536f
