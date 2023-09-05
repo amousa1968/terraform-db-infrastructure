@@ -16,7 +16,7 @@ AWS account and IAM user with access to the AWS_ACCESS_KEY_ID and AWS_SECRET_ACC
  export AWS_SECRET_ACCESS_KEY=
 ```
 
-# I will be using a CentOs Linux machine to do the following:
+# I will be using a Linux machine to do the following:
 
 - Install and setup Terraform.
 - Create Terraform code/files to define a simple PostgreSQL database resource for aws cloud providers.
