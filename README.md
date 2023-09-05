@@ -41,7 +41,7 @@ provider "aws" {
 
 # Install and Setup Terraform
 
-- Install Terraform in our CentOS machine by running the following commands in the terminal:
+- Install Terraform by running the following commands in the terminal:
 ```
 sudo yum install -y yum-utils
 sudo yum-config-manager — add-repo https://rpm.releases.hashicorp.com/RHEL/hashicorp.repo
